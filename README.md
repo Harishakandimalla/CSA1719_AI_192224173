@@ -1,1 +1,1 @@
-# CSA1719_AI_192224173
+**in this github you are going to see the full codes of ARTIFICIAL INTELLIGENCE to run the algorithms in AI**
